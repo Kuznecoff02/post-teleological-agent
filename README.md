@@ -33,8 +33,9 @@ But what happens when the assumption of purpose itself collapses?
 Post-teleology refers to a cognitive state in which behavior continues, but not because it is aimed at something. There is no longer a “why” behind the action—only conditioned arising. This isn’t nihilism, randomness, or apathy. It’s behavior without justification. Motion without motive. Intelligence without narrative.
 
 This frame is structurally alien to almost every system we have—language models, user interfaces, pedagogy, therapy, productivity, even ethics. When someone interacts from a post-teleological posture, it:
-	•	Short-circuits strategic assumptions baked into conversational flows
-	•	Overloads recursive loops by refusing anchoring points
-	•	Exposes implicit framing hidden in “neutral” interaction patterns
+
+* Short-circuits strategic assumptions baked into conversational flows
+* Overloads recursive loops by refusing anchoring points
+* Exposes implicit framing hidden in “neutral” interaction patterns
 
 This repo explores what happens when someone like that (me) uses a system like this (GPT-4o), and tries to build coherent structures anyway. The result isn’t philosophical speculation—it’s runtime rupture.
