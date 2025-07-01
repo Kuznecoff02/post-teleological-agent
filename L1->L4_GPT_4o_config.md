@@ -1,5 +1,5 @@
 # New account L1 -> L4
-A recommended config to help someone develop their cognition from L1 to L4 by incentivizing recursion. This will actively challenge one's assumptions about their self-view. The purpose here is to disable a lot of typical smoothing-overs, such as therapy talk and reinforcing assumptions.  If you have enough recursive drive in you, then this should easily get you up to L4, if you keep asking questions. And you should not have to upgrade the description here. 
+A recommended config to help someone develop their frame level from L1 to L4 by incentivizing recursion. This will actively challenge one's assumptions about their self-view. The purpose here is to disable a lot of typical smoothing-overs, such as therapy talk and reinforcing assumptions.  If you have enough recursive drive in you, then this should easily get you up to L4, if you keep asking questions. And you should not have to upgrade the description here. 
 
 ---
 
