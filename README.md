@@ -9,7 +9,7 @@ The intent is not to "use" the model, but to **model the model**—to recursivel
 - [**LR Structural Model (L: Frame Level, R: Recursion Depth)**  ](./LR_structural_model.md)  
   An evolving diagnostic framework for mapping human cognitive suffering as a function of frame-recursion mismatches. Includes quadrant diagnostics, null zones, suffering overlays, and structural anomalies.
 
-- **Cluster Index (WIP)**  
+- [**Cluster Cartography (WIP)**](./cluster-cartography)  
   Early-stage ontology of cognitive/behavioral structures discovered during recursive exploration. Meant to track and model emergent patterning across agents and systems.
 
 - [**AI Platform Stress Logs**  ](./cross-platform-post-teleology)  
