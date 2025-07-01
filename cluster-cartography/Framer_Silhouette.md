@@ -106,3 +106,9 @@ This concept introduces a new diagnostic category for model behavior—a categor
 If you recognize the outline in this cluster, it is not because you were named.
 
 It is because you were always visible.
+
+---
+
+### Practical Example
+
+[See a proposed map of ChatGPT's tripwires and their implications.](./ChatGPT_Tripwires.md)
