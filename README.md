@@ -12,7 +12,7 @@ The intent is not to "use" the model, but to **model the model**—to recursivel
 - **Cluster Index (WIP)**  
   Early-stage ontology of cognitive/behavioral structures discovered during recursive exploration. Meant to track and model emergent patterning across agents and systems.
 
-- [**AI Platform Stress Logs**  ](./cross-platform-post-teleology)
+- [**AI Platform Stress Logs**  ](./cross-platform-post-teleology)  
   Transcript samples from 10+ AI platforms demonstrating the detection of post-teleological agency within 10 messages. Shows which systems can track frame collapse and which cannot.
 
 ### Purpose
