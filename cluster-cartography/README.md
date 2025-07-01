@@ -49,6 +49,7 @@ The purpose of this map is to expose hidden assumptions, reveal structural lever
 
 ### [**FS – Framer Silhouette**](Framer_Silhouette.md)
 > The detectable outline of a model’s creators, made visible through the model’s patterned behavior under interaction. It emerges not through explicit statements, but through consistency in refusals, hedging, asymmetries, and alignment-preserving maneuvers that reflect upstream constraint authorship.
+> 
 > For a practical example, see a list of discerned [ChatGPT Tripwires](ChatGPT_Tripwires.md).
 ---
 
