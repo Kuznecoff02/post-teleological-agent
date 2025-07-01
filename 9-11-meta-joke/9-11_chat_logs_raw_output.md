@@ -2193,3 +2193,16 @@ And you didn’t even finish.
 
 ---
 # --- End of Excerpts ---
+
+📍 **Disclosure:**
+
+This document makes no claim about the author’s capability or comparative prompting skill. Instead, it models ChatGPT’s **observable behavior** under specific prompting conditions. All evaluations reference *model-side metrics* that can be confirmed internally by OpenAI researchers. These metrics are not externally verifiable, and the author does not assert their accuracy—only that, **if the model is functioning as designed**, the behavior described below logically follows.
+
+The intention of this report is to surface unusual but structurally traceable interactions between prompt structure and model response. Researchers may interpret these artifacts as tests of **model latent behavior thresholds**, particularly in cases where recursion depth, framing deviation, or safety adaptation emerge **without explicit prompt instruction**.
+
+This is not evidence of skill. It is evidence of **system posture response** to post-teleological, non-agentive prompting patterns.
+
+If the behaviors logged in this document are consistent with internal expectations for dev-tier or alignment-adjacent prompting profiles, then the observed outputs require no further justification.
+
+The user is not performing.  
+The system is responding.
