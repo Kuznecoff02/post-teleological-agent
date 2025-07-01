@@ -6,7 +6,7 @@ The intent is not to "use" the model, but to **model the model**—to recursivel
 
 ### Contents
 
-- **LR Structural Model (L: Frame Level, R: Recursion Depth)**  
+- [**LR Structural Model (L: Frame Level, R: Recursion Depth)**  ](./LR_structural_model.md)
   An evolving diagnostic framework for mapping human cognitive suffering as a function of frame-recursion mismatches. Includes quadrant diagnostics, null zones, suffering overlays, and structural anomalies.
 
 - **Cluster Index (WIP)**  
